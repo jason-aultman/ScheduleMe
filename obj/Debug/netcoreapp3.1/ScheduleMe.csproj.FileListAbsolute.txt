@@ -1,0 +1,11 @@
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\bin\Debug\netcoreapp3.1\ScheduleMe.exe
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\bin\Debug\netcoreapp3.1\ScheduleMe.deps.json
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\bin\Debug\netcoreapp3.1\ScheduleMe.runtimeconfig.json
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\bin\Debug\netcoreapp3.1\ScheduleMe.runtimeconfig.dev.json
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\bin\Debug\netcoreapp3.1\ScheduleMe.dll
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\bin\Debug\netcoreapp3.1\ScheduleMe.pdb
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\obj\Debug\netcoreapp3.1\ScheduleMe.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\obj\Debug\netcoreapp3.1\ScheduleMe.AssemblyInfo.cs
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\obj\Debug\netcoreapp3.1\ScheduleMe.dll
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\obj\Debug\netcoreapp3.1\ScheduleMe.pdb
+C:\Users\jason\source\repos\ScheduleMe\ScheduleMe\obj\Debug\netcoreapp3.1\ScheduleMe.csprojAssemblyReference.cache
